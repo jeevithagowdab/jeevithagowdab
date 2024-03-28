@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📝 I regularly write articles on [https://medium.com/@jeevitha_gowda_b](https://medium.com/@jeevitha_gowda_b)
+- 📝 I  write articles on [https://medium.com/@jeevitha_gowda_b](https://medium.com/@jeevitha_gowda_b)
 
-- 💬 Ask me about **python,numpy,pandas,streamlit**
+- 💬 Ask me about **python,numpy,pandas,streamlit,data vizualization**
 
 - 📫 How to reach me **jeevithagowdab@gmail.com**
 
