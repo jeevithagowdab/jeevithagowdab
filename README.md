@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/jeevitha_gowda_" target="blank"><img src="https://img.shields.io/twitter/follow/jeevitha_gowda_?logo=twitter&style=for-the-badge" alt="jeevitha_gowda_" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Anaysis**
 
 - 📝 I  write articles on [https://medium.com/@jeevitha_gowda_b](https://medium.com/@jeevitha_gowda_b)
 
-- 💬 Ask me about **python,numpy,pandas,streamlit,data vizualization**
+- 💬 Ask me about **python,numpy,pandas,streamlit,data vizualization,power BI,excel,sql,statistics**
 
 - 📫 How to reach me **jeevithagowdab@gmail.com**
 
