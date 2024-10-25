@@ -1,6 +1,6 @@
 [![MasterHead](https://rhamadhanromly.blog.uma.ac.id/wp-content/uploads/sites/804/2023/04/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)
 <h1 align="center">Hi 👋, I'm Jeevitha B</h1>
-<h3 align="center">A Data Science Enthusiast from India</h3>
+<h3 align="center">Aspiring data Analyst from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/571e1b07bd12a229e4655e0f584330c56076dd3ad02975293617479c29bb1f0f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6d656469612f64326236366334636130313932616132366431303334343862336431353138622e676966">
 
